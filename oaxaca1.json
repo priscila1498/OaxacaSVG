@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [ -97.000122, 17.033757 ],
+        [ -96.980591, 16.942386 ],
+        [ -96.894044, 16.877156 ],
+        [ -96.862307, 16.800445 ],
+        [ -96.835612, 16.755417 ],
+        [ -96.744881, 17.233775 ],
+        [ -96.743958, 17.260621 ],
+        [ -96.801471, 17.302193 ],
+        [ -97.000122, 17.033757 ]
+      ]
+    ]
+  },
+  "properties": {
+    "estado": "Oaxaca",
+    "capital": "Oaxaca de Juárez",
+    "poblacion": "3,967,889",
+    "municipios": 570,
+    "superficie_km2": 93779,
+    "regiones": ["Cañada", "Costa", "Istmo", "Mixteca", "Papaloapan", "Sierra Norte", "Sierra Sur", "Valles Centrales"],
+    "gentilicio": "oaxaqueño/a",
+    "idiomas": ["español", "mixteco", "zapoteco", "otomí", "mazateco"],
+    "comida_tipica": ["mole", "tlayudas", "chapulines", "tasajo", "tejate"],
+    "lugares_destacados": ["Monte Albán", "Hierve el Agua", "Bahías de Huatulco", "Mazunte", "Guelatao de Juárez"]
+  }
+}
